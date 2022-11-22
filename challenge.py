@@ -1,5 +1,5 @@
 import random
-#fixed
+# fixed
 def rps_game():
     rps_list = ['rock', 'paper', 'scissors']
 
